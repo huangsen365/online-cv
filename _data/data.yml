@@ -80,43 +80,56 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior Infrastructure Engineer(Contractor for Mars)
+      time: 2018 - Present
+      company: Tata Consultancy Services + Mars, Guangzhou
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+       Working for Mars Global Services as a TCS Contractor. 
+       Scope:
+       Websites Hosting/Applications DevOps management - AWS/Azure/On-Premises Data Centers(CenturyLink, Rackspace-Datapipe, DataLine)
+       Work with vendors to resolve technical issues and maintain the agreed service level.
+       - Websites migrations.
+       - Patching.
+       - Change Requests Management.
+       - CDN implementation.
+       - Premium/Standard website creations.
+       - Database Management.
+       - Dedicated Hosting.
+       - Domain Name Management.
+       - Hosting monitoring.
+       - Security Scans.
+       - Site Decommissions.
+       - HTTPS / SSL Certificates.
+       - Troubleshooting.
+       - CMDB maintenance.      
+    - role: Cloud & System Specialist
+      time: 2015 - 2018
+      company: Publicis Groupe, Guangzhou
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+       This is an technology specialist posting in a fast growing regional environment which has some of the latest technologies being deployed. The role primarily focuses on taking charge of the APAC Cloud / On-Premises data center environment, with a mandate to transition it to an off-prem vendor platform and to provide mentoring to junior staff members.
+
+       The role provides opportunities to work on a wide range of technologies, and be a key member to regional projects. The Cloud Specialist role is to provide input to the development, maintenance, delivery and support of vendor hosted regional cloud infrastructure and associated software to ensure that the service provided to business units meets the established Service Level Agreements and quality standards.
+      
+    - role: SQL & Data Specialist
+      time: 2013 - 2015
+      company: Nord Anglia Education, Guangzhou
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+       Maintenance of servers and other infrastructure.
+       Automation workflow development, testing and documentation for projects.
+       Script/automate basic repeatable day-to-day tasks
+       Designing, building, and improving cloud environments on Amazon Web Services(AWS).
+       Working with senior team members to assist in providing on-line learning services to students and teachers at Nord Anglia Education.
+      
+    - role: System Administrator
+      time: 2010 - 2013
+      company: FabriQate, Guangzhou
+      details: |
+       Maintenance of servers and other infrastructure.
+       Automation workflow development, testing and documentation for projects.
+       Script/automate basic repeatable day-to-day tasks
+       Designing, building, and improving cloud environments on Amazon Web Services(AWS).
+       Working with senior team members to assist in providing on-line learning services to students and teachers at Nord Anglia Education.
+       
 projects:
     title: Projects
     intro: >
@@ -145,27 +158,43 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Certifications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: AWS Certified Cloud Practitioner
+        link: "https://www.youracclaim.com/badges/c6ba3b49-35e7-4ecb-8b95-448c50ed5a4d/linked_in_profile"
+        authors: Amazon Web Services (AWS)
+        conference: 2020
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Linux Shell Scripting
+        link: "http://www.lynda.com/PowerShell-tutorials/Up-Running-PowerShell-5/189402-2.html"
+        authors: lynda.com
+        conference: 2019
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: PowerShell 5 Essential Training
+        link: "http://www.lynda.com/PowerShell-tutorials/Up-Running-PowerShell-5/189402-2.html"
+        authors: lynda.com
+        conference: 2018
 
+      - title: Implementing Microsoft Azure Infrastructure Solutions
+        link: "#"
+        authors: Microsoft
+        conference: 2017
+
+      - title: Docker - The Basics
+        link: "https://www.lynda.com/Docker-tutorials/Docker-Basics/485649-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate"
+        authors: lynda.com
+        conference: 2016
+
+      - title: Up and Running with Python
+        link: "http://www.lynda.com/ViewCertificate/1652692CDB604EDE9FBE2B083604D5DB?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate"
+        authors: lynda.com
+        conference: 2015
+
+      - title: "ITIL Foundation V2"
+        link: "#"
+        authors: EXIN
+        conference: 2014
 skills:
     title: Skills &amp; Proficiency
 
