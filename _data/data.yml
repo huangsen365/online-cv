@@ -29,13 +29,13 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Running
         link:
 
-      - item: Snowboarding
+      - item: Reading
         link:
 
-      - item: Cooking
+      - item: Movies
         link:
 
 career-profile:
@@ -130,7 +130,7 @@ projects:
         tagline: "Azure China IaaS website implementation Using Azure Load Balancer, Nginx, SQL Server https://marsonboard.marschina.com"
 
       - title: CLICK HERE TO VIEW A COMPLETE PROJECTS LIST FOR WING HUANG
-        link: "http://192.168.1.131:4000/online-cv/assets/images/winghuangprojects.pdf"
+        link: "https://www.winghuang.com/assets/images/winghuangprojects.pdf"
         tagline: "Preview: Mars China - Citrix Gateway acceleration Mars Global - Cloudflare CDN/DNS, Amazon Route 53 migrations for thousands websites Mars China - https://csms.marschina.com Mars China - Mars Onboarding Platform Mars China - HTTPS/SSL certificates - developing management scripts for thousands websites Mars China - Architecture designing/implementation for E-Contract website Mars China - official website migration Publicis Groupe HKDC - Windows/Linux/VMWare-vCenter PowerShell/PowerCLI on-demand scripts development Publicis Groupe HKDC - Docker Implementation for hosting internal CMDB/DevOps websites/API services. Publicis Groupe APAC-IT-Re:Sources - Migrating from Microsoft SharePoint 2013 to SharePoint 2016 Publicis Groupe APAC-Agencies - Migrate Websites (hosted-by-cPanel) to Microsoft Azure App Services Publicis Groupe APAC - Create Site-to-Site connection(IPSec VPN + Check Point Devices) between the Azure and On-Premises Datacenter Publicis Groupe APAC - Microsoft System Center Orchestrator Deployment Nord Anglia Education - Migration from On-Premises Server Hosting to Amazon Web Services (Linux EC2 + Load balancing + RDS MySQL Database) FabriQate - Web Hosting management FabriQate - Apache Subversion SVN Deployment / Management."
 
 publications:
@@ -206,4 +206,4 @@ skills:
         level: 70%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Hosted in <i class="fas fa-heart"></i> <a href="https://www.aliyun.com/" target="_blank" rel="nofollow">阿里云 - Alibaba Cloud</a>
