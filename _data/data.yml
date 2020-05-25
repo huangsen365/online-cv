@@ -102,11 +102,13 @@ experiences:
       time: 2010 - 2013
       company: FabriQate, Guangzhou
       details: |
-       Maintenance of servers and other infrastructure.
-       Automation workflow development, testing and documentation for projects.
-       Script/automate basic repeatable day-to-day tasks
-       Designing, building, and improving cloud environments on Amazon Web Services(AWS).
-       Working with senior team members to assist in providing on-line learning services to students and teachers at Nord Anglia Education.
+       Equipment installation and troubleshooting.
+       - Engineering of SA-related solutions for various project and operational needs
+       - Install new / rebuild / upgrade existing servers and configure hardware, services, settings, storage, etc. in accordance with standards and project/operational requirements
+       - Research, contribute to and maintain system standards
+       - Perform daily data center environment monitoring, verifying all hardware, server resources, systems and key processes, reviewing system and application logs.
+       - Perform daily files & database backup operations, ensuring all required data are successfully backed up, recovery as necessary
+      
        
 projects:
     title: Projects
