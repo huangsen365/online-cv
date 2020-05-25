@@ -15,7 +15,7 @@ sidebar:
     email: admin@winghuang.com
     phone: (86) 15899557011
     website: www.winghuang.com #do not add http://
-    linkedin: wing-huang-8889574a
+    #linkedin: wing-huang-8889574a
 
     languages:
       - idiom: Mandarin(Chinese)
@@ -38,29 +38,38 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Summary
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      10+ years experience in Cloud - Amazon Web Services(AWS: EC2/ELB/ElastiCache/RDS/S3/CloudFront), Microsoft Azure, Google Cloud, Aliyun(Alibaba Cloud), Qcloud(Tencent Cloud), Windows Desktop / Server, Unix/Linux(RedHat/CentOS/Ubuntu/Debian) systems engineering/administration;
+      Experience in a web hosting environment management(PHP, Python, Ruby on Rails, Java/JSP, ASP.NET);
+      Architect/Cloud/Websites/Applications migration/deployment, Automation, DevOps;
+      Understanding of network protocols & services (HTTP/HTTPS/SSL, TCP/IP, DNS, SFTP/SSH etc);
+      Knowledge of web engines & Load Balancers (IIS, Apache, LVS, Squid, Nginx, Redis/Memcached, Docker, CDN);
+      Familiar with database (MySQL - Configuration, access control, cluster/replication, tuning)
+      Familiar with version control systems - Git and SVN.
+      Scripting/data manipulation - PowerShell, Perl, Bash, Ruby, Python, Awk, PHP, etc.
+      Continuous Integration (CI) & Continuous Delivery (CD) - GitLab / Jenkins
+      Understanding of configuration management tools and principle;
+      Good troubleshooting skills;
+      SharePoint;
+      CDN - Akamai / Cloudflare / CloudFront.
+      WAF - (Web Application Firewall)
+      China ICP License.
+      Power BI / Excel / Pivot able / Power Query
+      Security.
+      SOP
+      Project Management.
+      Agile.
+      Audit.
+      AWS Identity and Access Management (IAM)
+      HyperCare.
+      Proactive, self-motivated, and able to work independently.
+      Connect, Communicate, Collaborate with Team members.
+      Getting Things Done. 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Software Technology
+      university: Guangdong Neusoft University
+      time: 2007 - 2010
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -160,23 +169,35 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Amazon Web Services (AWS)
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Microsoft Azure
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Google Cloud Platform (GCP)
+        level: 80%
+
+      - name: Alibaba Cloud
+        level: 90%
+
+      - name: System Administration
+        level: 90%
+
+      - name: DevOps
+        level: 85%
+
+      - name: Shell Scripting
+        level: 80%
+
+      - name: Docker/kubernetes Products
+        level: 75%
+
+      - name: Python
+        level: 70%
+
+      - name: Project Management
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
