@@ -41,32 +41,9 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      10+ years experience in Cloud - Amazon Web Services(AWS: EC2/ELB/ElastiCache/RDS/S3/CloudFront), Microsoft Azure, Google Cloud, Aliyun(Alibaba Cloud), Qcloud(Tencent Cloud), Windows Desktop / Server, Unix/Linux(RedHat/CentOS/Ubuntu/Debian) systems engineering/administration;
-      Experience in a web hosting environment management(PHP, Python, Ruby on Rails, Java/JSP, ASP.NET);
-      Architect/Cloud/Websites/Applications migration/deployment, Automation, DevOps;
-      Understanding of network protocols & services (HTTP/HTTPS/SSL, TCP/IP, DNS, SFTP/SSH etc);
-      Knowledge of web engines & Load Balancers (IIS, Apache, LVS, Squid, Nginx, Redis/Memcached, Docker, CDN);
-      Familiar with database (MySQL - Configuration, access control, cluster/replication, tuning)
-      Familiar with version control systems - Git and SVN.
-      Scripting/data manipulation - PowerShell, Perl, Bash, Ruby, Python, Awk, PHP, etc.
-      Continuous Integration (CI) & Continuous Delivery (CD) - GitLab / Jenkins
-      Understanding of configuration management tools and principle;
-      Good troubleshooting skills;
-      SharePoint;
-      CDN - Akamai / Cloudflare / CloudFront.
-      WAF - (Web Application Firewall)
-      China ICP License.
-      Power BI / Excel / Pivot able / Power Query
-      Security.
-      SOP
-      Project Management.
-      Agile.
-      Audit.
-      AWS Identity and Access Management (IAM)
-      HyperCare.
-      Proactive, self-motivated, and able to work independently.
-      Connect, Communicate, Collaborate with Team members.
-      Getting Things Done. 
+      10+ years experiences in Cloud Computing - Amazon Web Services(AWS), Microsoft Azure, Google Cloud, Aliyun(Alibaba Cloud), Tencent Cloud, Windows Desktop / Server, Unix/Linux(RedHat/CentOS/Ubuntu/Debian) systems engineering/administration;
+      - Birth Year: 1987
+      - Gender: Male
 education:
     - degree: Software Technology
       university: Guangdong Neusoft University
@@ -96,8 +73,9 @@ experiences:
        - Database Management.
        - Dedicated Hosting.
        - Domain Name Management.
+       - Continuous Integration (CI) & Continuous Delivery (CD) - GitLab / Jenkins
        - Hosting monitoring.
-       - Security Scans.
+       - Security scanning(Rapid7).
        - Site Decommissions.
        - HTTPS / SSL Certificates.
        - Troubleshooting.
@@ -133,29 +111,27 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+     Participated in 16 Major Projects during the last 10 years
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Mars China - Citrix Gateway acceleration
+        link: "https://vdi.marschina.com"
+        tagline: "Use Azure China ExpressRoute (MPLS) to accelerate the global VDI platform https://vdi.marschina.com to help China users work from home remotely due to the Coronavirus COVID-19 outbreak."
 
-      - title: DevStudio
+      - title: Mars Global - Cloudflare CDN/DNS, Amazon Route 53 migrations for thousands websites
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "PowerShell Python Bash scripts - Migrating/verifying existing thousands domains from Bind9 to use Amazon Route 53 as the DNS service provider. Amazon Route 53 is a scalable and highly available Domain Name System service."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Mars China - https://csms.marschina.com
+        link: "https://csms.marschina.com"
+        tagline: "Azure China IaaS website implementation Using Azure Load Balancer, IIS, SQL Server"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Mars China - Mars Onboarding Platform
+        link: "https://marsonboard.marschina.com"
+        tagline: "Azure China IaaS website implementation Using Azure Load Balancer, Nginx, SQL Server https://marsonboard.marschina.com"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: CLICK HERE TO VIEW A COMPLETE PROJECTS LIST FOR WING HUANG
+        link: "http://192.168.1.131:4000/online-cv/assets/images/winghuangprojects.pdf"
+        tagline: "Preview: Mars China - Citrix Gateway acceleration Mars Global - Cloudflare CDN/DNS, Amazon Route 53 migrations for thousands websites Mars China - https://csms.marschina.com Mars China - Mars Onboarding Platform Mars China - HTTPS/SSL certificates - developing management scripts for thousands websites Mars China - Architecture designing/implementation for E-Contract website Mars China - official website migration Publicis Groupe HKDC - Windows/Linux/VMWare-vCenter PowerShell/PowerCLI on-demand scripts development Publicis Groupe HKDC - Docker Implementation for hosting internal CMDB/DevOps websites/API services. Publicis Groupe APAC-IT-Re:Sources - Migrating from Microsoft SharePoint 2013 to SharePoint 2016 Publicis Groupe APAC-Agencies - Migrate Websites (hosted-by-cPanel) to Microsoft Azure App Services Publicis Groupe APAC - Create Site-to-Site connection(IPSec VPN + Check Point Devices) between the Azure and On-Premises Datacenter Publicis Groupe APAC - Microsoft System Center Orchestrator Deployment Nord Anglia Education - Migration from On-Premises Server Hosting to Amazon Web Services (Linux EC2 + Load balancing + RDS MySQL Database) FabriQate - Web Hosting management FabriQate - Apache Subversion SVN Deployment / Management."
 
 publications:
     title: Certifications
