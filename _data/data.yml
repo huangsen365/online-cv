@@ -38,6 +38,9 @@ sidebar:
       - item: Movies
         link:
 
+      - item: Music
+        link:
+
 career-profile:
     title: Summary
     summary: |
@@ -208,4 +211,3 @@ skills:
         level: 70%
 
 footer: >
-    Hosted in <i class="fas fa-heart"></i> <a href="https://www.aliyun.com/" target="_blank" rel="nofollow">阿里云 - Alibaba Cloud</a>
